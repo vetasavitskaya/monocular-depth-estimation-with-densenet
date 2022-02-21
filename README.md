@@ -7,7 +7,8 @@
 ### Сравнительный анализ датасетов
 
 ### Результат
-                                                       ### NYU Dataset
+                                                       NYU Dataset
+                                                         6 epoch
 ![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_01.png)
 ![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_02.png)
 ![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_03.png)

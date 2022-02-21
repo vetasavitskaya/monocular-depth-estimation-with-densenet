@@ -7,10 +7,10 @@
 ### Сравнительный анализ датасетов
 
 ### Результат
-                                                  NYU Dataset
-                                                    6 epoch
-![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/nyu_4_epochs/depth_map_test_01.png)
-![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/nyu_4_epochs/depth_map_test_02.png)
-![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/nyu_4_epochs/depth_map_test_03.png)
-![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/nyu_4_epochs/depth_map_test_04.png)
+<p align="center">NYU Dataset</p>
+<p align="center">4 epochs</p>
+![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_01.png)
+![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_02.png)
+![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_03.png)
+![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/depth_map_test_04.png)
 ### Зависимость от гиперпараметров

@@ -11,7 +11,8 @@
 ### Результат
 ## <p align="center">NYU Dataset</p>
 **<p align="center">Пример сцены и её карты глубины из датасета</p>**
-**<p align="center">![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/example.png)</p>**
+**<img align="center">![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/example.png)</img>**
+
 **<p align="center">4 epochs / 10% of nyu dataset used</p>**
 
 ![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/nyu_4_epochs/depth_map_test_01.png)

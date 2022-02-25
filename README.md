@@ -7,6 +7,7 @@
 ### [`Структура Модели`](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/model_view.png)
 ### Сравнительный анализ датасетов
 
+### Модельобученная на датасете NYU V2
 ### Результат
 ## <p align="center">NYU Dataset</p>
 **<p align="center">4 epochs / 10% of nyu dataset used</p>**

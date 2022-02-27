@@ -13,6 +13,9 @@
 ---
 **<p align="center">![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/example_10_pct_10_epochs.png)</p>**
 ---
+
+
+
 **<p align="center">Результаты при epoch = 10 и использовании 10% данных датасета nyu v2</p>**
 ---
 **<p align="center">![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/results_10_pct_10_epochs.png)</p>**

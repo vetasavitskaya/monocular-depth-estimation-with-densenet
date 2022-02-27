@@ -8,7 +8,6 @@
 
 ### Модель обученная на датасете NYU V2 (результаты которой были в курсовом проекте)
 ### Результат
-## <p align="center">NYU V2 Dataset</p>
 ---
 **<p align="center">Пример сцены и её карты глубины из датасета</p>**
 **<p align="center">![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/example_10_pct_10_epochs.png)</p>**

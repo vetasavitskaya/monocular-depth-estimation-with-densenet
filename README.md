@@ -14,4 +14,4 @@
 
 **<p align="center">10 epochs / 10% of nyu dataset used</p>**
 
-![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/results_10_pct_10_epochs.png)
+**<p align="center">![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/results_10_pct_10_epochs.png)</p>**

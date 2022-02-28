@@ -6,10 +6,9 @@
 
 ### Модель обученная на датасете NYU V2 (результаты которой были в курсовом проекте)
 [`обученная модель`](https://drive.google.com/file/d/11HcVZ4Ih8GfoGUYoBORLRrEcxPuce6Tj/view?usp=sharing)
+**<p align="center">Пример данных из датасета nyu v2</p>**
+**<p align="center">![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/example_10_pct_10_epochs.png)</p>**
 ### Результат
-
-![](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/example_10_pct_10_epochs.png)
 ---
-
 **<p align="center">Результаты при epoch = 10 и использовании 10 % данных датасета nyu v2</p>**
 **<p align="center">![*NYU Dataset Results*](https://github.com/vetasavitskaya/monocular-depth-estimation-with-densenet/blob/main/results/images/results_10_pct_10_epochs/results_10_pct_10_epochs.png)</p>**

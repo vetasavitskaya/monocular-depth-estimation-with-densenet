@@ -2,11 +2,10 @@
 ## Построение карты глубины по видеопотоку с монокамеры
 ### Откуда взята идея
 [Статья с medium](https://medium.com/mlearning-ai/monocular-depth-estimation-using-u-net-6f149fc34077), [Пример с Keras](https://keras.io/examples/vision/depth_estimation/) и [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/pdf/1812.11941.pdf)
-
-[`обученная модель`](https://drive.google.com/file/d/11HcVZ4Ih8GfoGUYoBORLRrEcxPuce6Tj/view?usp=sharing)
 ### Сравнительный анализ датасетов (?)
 
 ### Модель обученная на датасете NYU V2 (результаты которой были в курсовом проекте)
+[`обученная модель`](https://drive.google.com/file/d/11HcVZ4Ih8GfoGUYoBORLRrEcxPuce6Tj/view?usp=sharing)
 ### Результат
 ---
 
